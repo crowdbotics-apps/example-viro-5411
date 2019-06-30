@@ -1,0 +1,3 @@
+rootProject.name = 'example_viro_5411'
+
+include ':app'
